@@ -190,6 +190,8 @@
   .service {
     text-align: center;
   }
-  .service i{ }
+  .service i{ 
+    font-size: 10rem;
+  }
   
   /* end of section 2 */
