@@ -195,7 +195,17 @@
     color: #888;
     margin-bottom: 2rem;
     text-shadow: 0.1rem 0.1rem 0.5rem #555;
+
   }
-  
+
+  .service h2{
+    font-size: 2rem;
+    color: #fff;
+    background-color: #777;
+    width: 25rem;
+    letter-spacing: 0.3rem;
+    transform: skew(-10deg);
+  }
+
   
   /* end of section 2 */
