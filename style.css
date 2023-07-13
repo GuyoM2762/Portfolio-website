@@ -192,6 +192,10 @@
   }
   .service i{ 
     font-size: 10rem;
+    color: #888;
+    margin-bottom: 2rem;
+    text-shadow: 0.1rem 0.1rem 0.5rem #555;
   }
+  
   
   /* end of section 2 */
